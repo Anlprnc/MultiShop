@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/MultiShop.Catalog.csproj": {}
+  },
+  "projects": {
+    "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/MultiShop.Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/MultiShop.Catalog.csproj",
+        "projectName": "MultiShop.Catalog",
+        "projectPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/MultiShop.Catalog.csproj",
+        "packagesPath": "/Users/anil/.nuget/packages/",
+        "outputPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
