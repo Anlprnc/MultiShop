@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "801YYW/BatlmcFFAeaHWbRxkpSiN2PNTAXxVEmMnvZAzvilUj0WXX44CWfUrkiWCFUjeYmd02Emtdyjo8q3I1g==",
+  "success": true,
+  "projectFilePath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistance/MultiShop.Order.Persistance.csproj",
+  "expectedPackageFiles": [
+    "/Users/anil/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
