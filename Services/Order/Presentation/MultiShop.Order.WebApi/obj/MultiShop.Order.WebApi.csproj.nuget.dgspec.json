@@ -126,14 +126,14 @@
         }
       }
     },
-    "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/MultiShop.Order.WebApi.csproj": {
+    "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistance/MultiShop.Order.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/MultiShop.Order.WebApi.csproj",
-        "projectName": "MultiShop.Order.WebApi",
-        "projectPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/MultiShop.Order.WebApi.csproj",
+        "projectUniqueName": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistance/MultiShop.Order.Persistance.csproj",
+        "projectName": "MultiShop.Order.Persistance",
+        "projectPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistance/MultiShop.Order.Persistance.csproj",
         "packagesPath": "/Users/anil/.nuget/packages/",
-        "outputPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/obj/",
+        "outputPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anil/.nuget/NuGet/NuGet.Config"
@@ -167,6 +167,98 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/MultiShop.Order.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/MultiShop.Order.WebApi.csproj",
+        "projectName": "MultiShop.Order.WebApi",
+        "projectPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/MultiShop.Order.WebApi.csproj",
+        "packagesPath": "/Users/anil/.nuget/packages/",
+        "outputPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Presentation/MultiShop.Order.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj": {
+                "projectPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj"
+              },
+              "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj": {
+                "projectPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj"
+              },
+              "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistance/MultiShop.Order.Persistance.csproj": {
+                "projectPath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Infrastructure/MultiShop.Order.Persistance/MultiShop.Order.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
