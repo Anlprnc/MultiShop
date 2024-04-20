@@ -1,0 +1,12 @@
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/bin/Debug/net6.0/MultiShop.Order.Domain.deps.json
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/bin/Debug/net6.0/MultiShop.Order.Domain.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/bin/Debug/net6.0/ref/MultiShop.Order.Domain.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/bin/Debug/net6.0/MultiShop.Order.Domain.pdb
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/MultiShop.Order.Domain.csproj.AssemblyReference.cache
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/MultiShop.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/MultiShop.Order.Domain.AssemblyInfoInputs.cache
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/MultiShop.Order.Domain.AssemblyInfo.cs
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/MultiShop.Order.Domain.csproj.CoreCompileInputs.cache
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/MultiShop.Order.Domain.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/ref/MultiShop.Order.Domain.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/obj/Debug/net6.0/MultiShop.Order.Domain.pdb

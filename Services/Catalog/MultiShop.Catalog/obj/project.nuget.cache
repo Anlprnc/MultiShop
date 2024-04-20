@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EGH4C0tnMXw8bL6veAfsR5HBksXNPAeVZvo66hbjHr+0YHcHkRaz1Xar+pp0YrEW0YozTVmkruwP7Um1U6BRpQ==",
+  "dgSpecHash": "lVyKqR8rPUWLUDbiphyospAgIivK1OWXiS/dO5gCNLozOqwl1w3BzqFPfL09XywEl5z51qS6Bu3JGeI1hunSEA==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/MultiShop.Catalog.csproj",
   "expectedPackageFiles": [
@@ -33,10 +33,7 @@
     "/Users/anil/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
-    "/Users/anil/.nuget/packages/zstdsharp.port/0.7.3/zstdsharp.port.0.7.3.nupkg.sha512",
-    "/Users/anil/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "/Users/anil/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
-    "/Users/anil/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.28/microsoft.netcore.app.host.osx-arm64.6.0.28.nupkg.sha512"
+    "/Users/anil/.nuget/packages/zstdsharp.port/0.7.3/zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []
 }

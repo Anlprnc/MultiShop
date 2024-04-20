@@ -5,7 +5,6 @@
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.csproj.CoreCompileInputs.cache
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.MvcApplicationPartsAssemblyInfo.cs
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.MvcApplicationPartsAssemblyInfo.cache
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.sourcelink.json
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net6.0/appsettings.Development.json
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net6.0/appsettings.json
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net6.0/MultiShop.Catalog
@@ -34,15 +33,10 @@
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/staticwebassets.build.json
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/staticwebassets.development.json
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/staticwebassets/msbuild.MultiShop.Catalog.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/staticwebassets/msbuild.build.MultiShop.Catalog.props
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MultiShop.Catalog.props
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MultiShop.Catalog.props
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/staticwebassets.pack.json
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/scopedcss/bundle/MultiShop.Catalog.styles.css
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiSho.C11EF5E0.Up2Date
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.dll
-/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/refint/MultiShop.Catalog.dll
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.pdb
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.genruntimeconfig.cache
 /Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/ref/MultiShop.Catalog.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/bin/Debug/net6.0/ref/MultiShop.Catalog.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Catalog/MultiShop.Catalog/obj/Debug/net6.0/MultiShop.Catalog.csproj.CopyComplete

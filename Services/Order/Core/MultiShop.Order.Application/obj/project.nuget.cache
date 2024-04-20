@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "I/0bLAfdZQLA0Oe5Vq6jVXTYeMxgnFBQwtkWxPtxN6hI87V4iULIQf+l4A34WABHhtTWVcDubHC7viuaj6rknA==",
+  "dgSpecHash": "IYzrt2rkdGKWFXp1gcC6+AsD5X9DIJ14i3YAxA6pKYaF6/hx1gurr+i6PPBc4EwiqJGVj1QxBKigTtKey6cepg==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/anil/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "/Users/anil/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+    "/Users/anil/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

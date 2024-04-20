@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiShop.Order.Application", "MultiShop.Order.Application.csproj", "{868D1F01-7380-4E15-85B7-9BD56D8D382A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiShop.Order.Application", "MultiShop.Order.Application.csproj", "{DD833B81-B7BD-44DD-8F58-C10A691ED628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{868D1F01-7380-4E15-85B7-9BD56D8D382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{868D1F01-7380-4E15-85B7-9BD56D8D382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{868D1F01-7380-4E15-85B7-9BD56D8D382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{868D1F01-7380-4E15-85B7-9BD56D8D382A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD833B81-B7BD-44DD-8F58-C10A691ED628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD833B81-B7BD-44DD-8F58-C10A691ED628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD833B81-B7BD-44DD-8F58-C10A691ED628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD833B81-B7BD-44DD-8F58-C10A691ED628}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9105B44F-EC3D-4194-AD7A-A20C1ECDB0A0}
+		SolutionGuid = {C9A1F129-DD7E-4FE9-844E-DB8E77FB81E1}
 	EndGlobalSection
 EndGlobal
