@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IYzrt2rkdGKWFXp1gcC6+AsD5X9DIJ14i3YAxA6pKYaF6/hx1gurr+i6PPBc4EwiqJGVj1QxBKigTtKey6cepg==",
+  "dgSpecHash": "RP1bNPoxlHgqXyjZ7dOetvU3pUQ2lHeNYqa9Gnsu5ImwWsMCv3CIhztS5oX1bop14lfohKWMHGsSOaYa07IgUQ==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,9 @@
     "/Users/anil/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/anil/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/Users/anil/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/Users/anil/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }

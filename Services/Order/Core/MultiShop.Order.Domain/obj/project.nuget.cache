@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qkx5pbgX7XSCXlN4JhsLTEImdytWgLbQGUiFw7r8jBWk4N+eHrSsvrQYBrKNH5PiEUZ8VjlHMIgD3H8c5gxlqg==",
+  "dgSpecHash": "VrIRctohDKTr/TP/Wf/4V1NyrShJiLe2SUTrz36jmlEUsO1xXmc/q50B3CKDWbVGQ4W9OpBf8tZX7fpTdb8CPA==",
   "success": true,
   "projectFilePath": "/Users/anil/Documents/Development/Dotnet/MultiShop/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/anil/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/anil/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
