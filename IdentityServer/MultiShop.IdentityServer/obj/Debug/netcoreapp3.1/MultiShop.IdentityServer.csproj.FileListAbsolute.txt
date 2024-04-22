@@ -127,3 +127,17 @@
 /Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/obj/Debug/netcoreapp3.1/MultiShop.IdentityServer.dll
 /Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/obj/Debug/netcoreapp3.1/MultiShop.IdentityServer.pdb
 /Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/obj/Debug/netcoreapp3.1/MultiShop.IdentityServer.genruntimeconfig.cache
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/anil/Documents/Development/Dotnet/MultiShop/IdentityServer/MultiShop.IdentityServer/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
